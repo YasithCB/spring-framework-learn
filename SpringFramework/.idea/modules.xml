@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Hello_Spring/01_Hello_Spring.iml" filepath="$PROJECT_DIR$/01_Hello_Spring/01_Hello_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_BeanLifeCycle/02_BeanLifeCycle.iml" filepath="$PROJECT_DIR$/02_BeanLifeCycle/02_BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Bean_Scopes/03-Bean_Scopes.iml" filepath="$PROJECT_DIR$/03-Bean_Scopes/03-Bean_Scopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DI_Spring/04_DI_Spring.iml" filepath="$PROJECT_DIR$/04_DI_Spring/04_DI_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_FullModeVsLightMode/05_FullModeVsLightMode.iml" filepath="$PROJECT_DIR$/05_FullModeVsLightMode/05_FullModeVsLightMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Configurations/06_Configurations.iml" filepath="$PROJECT_DIR$/06_Configurations/06_Configurations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_RuntimeValueInjection/07_RuntimeValueInjection.iml" filepath="$PROJECT_DIR$/07_RuntimeValueInjection/07_RuntimeValueInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_SpringEnvironment/08_SpringEnvironment.iml" filepath="$PROJECT_DIR$/08_SpringEnvironment/08_SpringEnvironment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Spring_MVC/09_Spring_MVC.iml" filepath="$PROJECT_DIR$/09_Spring_MVC/09_Spring_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Controllers/10_Controllers.iml" filepath="$PROJECT_DIR$/10_Controllers/10_Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Rest_Controllers/11_Rest_Controllers.iml" filepath="$PROJECT_DIR$/11_Rest_Controllers/11_Rest_Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Mapping_Spec/12_Mapping_Spec.iml" filepath="$PROJECT_DIR$/12_Mapping_Spec/12_Mapping_Spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I4_POS_Front_End.iml" filepath="$PROJECT_DIR$/I4_POS_Front_End.iml" />
+    </modules>
+  </component>
+</project>
